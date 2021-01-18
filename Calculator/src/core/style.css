@@ -1,0 +1,17 @@
+.button{
+    -fx-background-color: rgb(54, 54, 54);
+    -fx-text-fill: white;
+}
+
+.button:hover{
+    -fx-background-color:rgb(46, 126, 255);
+}
+
+#ac:hover{
+    -fx-background-color:rgb(232, 63, 51);
+}
+
+#display {
+    -fx-background-color: rgb(54, 54, 54);
+    -fx-text-fill: white;
+}

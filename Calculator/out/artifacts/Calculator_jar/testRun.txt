@@ -1,0 +1,2 @@
+java -jar Calculator.jar --module-path C:\Program Files\Amazon Corretto\jdk11.0.9_12\lib --add-modules=javafx.controls,javafx.fxml
+java --module-path C:\Program Files\Amazon Corretto\jdk11.0.9_12\lib --add-modules javafx.application,javafx.fxml,javafx.scene,javafx.scene,javafx.scene.image,javafx.stage -jar Calculator.jar
